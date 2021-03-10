@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    text-align: center;
+}
+
+.produk{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product-top img{
+    max-width: 80%;
+}

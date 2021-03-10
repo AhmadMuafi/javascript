@@ -1,10 +1,10 @@
 let fungsi = function (nama) {
-  console.log("belajar function" + nama);
+  console.log("belajar function " + nama);
 };
 fungsi("udin");
 
 let contoh = (nama) => {
-  console.log("belajar function" + nama);
+  console.log("belajar function " + nama);
 };
 contoh("mitsuha");
 
